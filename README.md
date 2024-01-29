@@ -7,15 +7,26 @@ This repository consists of different model to classify images using CNN, which 
 The dataset provided to us had a following file structure:
 
 -train (50,000 images)
+
 -test (10,000 images)
+
   Airplane
+  
   Automobile
+  
   Bird
-  Cat 
-  Deer  
+  
+  Cat
+  
+  Deer
+  
   Dog
+  
   Frog
+  
   Horse
+  
   Ship 
+  
   Truck
 
