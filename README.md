@@ -10,23 +10,16 @@ The dataset provided to us had a following file structure:
 
 -test (10,000 images)
 
-  Airplane
-  
-  Automobile
-  
-  Bird
-  
-  Cat
-  
-  Deer
-  
-  Dog
-  
-  Frog
-  
-  Horse
-  
-  Ship 
-  
-  Truck
+  [Airplane,
+  Automobile,
+  Bird,
+  Cat,
+  Deer,
+  Dog,
+  Frog,
+  Horse,
+  Ship,
+  Truck]
+
+
 
